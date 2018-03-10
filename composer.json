@@ -1,0 +1,6 @@
+{
+    "name": "tadhack/friendly-hold",
+    "require": {
+        "php": "~7.2"
+    }
+}

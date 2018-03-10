@@ -1,4 +1,7 @@
 <Response>
+    <Say>
+        Test
+    </Say>
     <Gather input="speech" language="en-US" timeout="10" hints="trivia, music" action="https://tadhack-development.herokuapp.com/introResponse">
         <Say>Thank you for calling tadhack.  You will now be placed on a brief hold. If you would like to play trivia say trivia or if you would like to hear music say music.</Say>
     </Gather>
